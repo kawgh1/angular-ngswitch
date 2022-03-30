@@ -1,5 +1,6 @@
 # angular-ngswitch
 angular ngswitch example
+click the < > button 'display source blob' to see code
 
 General
 
